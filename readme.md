@@ -3,3 +3,4 @@
 ## objectives
 - training git
 - learning merge and rebase
+- learning about remote servers
