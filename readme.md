@@ -1,1 +1,5 @@
 # first readme of the project
+
+## objectives
+- training git
+- learning merge and rebase
